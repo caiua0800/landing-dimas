@@ -10,7 +10,7 @@ const benefits = [
 ];
 
 const BenefitsSection = () => {
-  const whatsappLink = "https://wa.me/5500000000000?text=Olá! Quero fazer meu planejamento previdenciário.";
+  const whatsappLink = "https://wa.me/5521971757851?text=Olá! Quero fazer meu planejamento previdenciário.";
 
   return (
     <section className="py-24 bg-gradient-navy text-primary-foreground">

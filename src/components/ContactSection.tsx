@@ -2,7 +2,7 @@ import { Phone, Mail, MapPin, ArrowRight } from "lucide-react";
 
 const ContactSection = () => {
   const whatsappLink =
-    "https://wa.me/5500000000000?text=Olá! Gostaria de agendar uma consulta.";
+    "https://wa.me/5521971757851?text=Olá! Gostaria de agendar uma consulta.";
 
   return (
     <section className="py-24 bg-gradient-navy text-primary-foreground">
@@ -24,13 +24,13 @@ const ContactSection = () => {
               <div className="w-14 h-14 rounded-full bg-gold/15 flex items-center justify-center">
                 <Phone className="w-6 h-6 text-gold" />
               </div>
-              <p className="text-gold-light">(00) 00000-0000</p>
+              <p className="text-gold-light">(21) 97175-7851</p>
             </div>
             <div className="flex flex-col items-center gap-3">
               <div className="w-14 h-14 rounded-full bg-gold/15 flex items-center justify-center">
                 <Mail className="w-6 h-6 text-gold" />
               </div>
-              <p className="text-gold-light">contato@advogada.com.br</p>
+              <p className="text-gold-light">advmeteixeirasantos@gmail.com</p>
             </div>
             <div className="flex flex-col items-center gap-3">
               <div className="w-14 h-14 rounded-full bg-gold/15 flex items-center justify-center">

@@ -2,7 +2,7 @@ import { Shield, ArrowRight } from "lucide-react";
 import advogadaImg from "@/assets/advogada.jpg";
 
 const HeroSection = () => {
-  const whatsappLink = "https://wa.me/5500000000000?text=Olá! Gostaria de saber mais sobre o planejamento previdenciário.";
+  const whatsappLink = "https://wa.me/5521971757851?text=Olá! Gostaria de saber mais sobre o planejamento previdenciário.";
 
   return (
     <section className="relative min-h-screen flex items-center bg-gradient-navy overflow-hidden">

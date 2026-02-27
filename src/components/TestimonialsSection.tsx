@@ -19,7 +19,7 @@ const testimonials = [
 ];
 
 const TestimonialsSection = () => {
-  const whatsappLink = "https://wa.me/5500000000000?text=Olá! Vi os depoimentos e gostaria de uma consulta.";
+  const whatsappLink = "https://wa.me/5521971757851?text=Olá! Vi os depoimentos e gostaria de uma consulta.";
 
   return (
     <section className="py-24 bg-background">
